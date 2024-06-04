@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luksuz
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning and polishing up on node.js
-- 💞️ I don't have any experience in IT but would be glad to be given a chance at it.
+- 🌱 I’m currently learning and polishing LLM's and Deep learning.
+- 💞️ I am currently an intern at AI center Lipik
 - 📫 How to reach me? Simply email me at lukamindjek@gmail.com
 
 <!---
