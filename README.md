@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luksuz
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning and polishing LLM's and Deep learning.
-- 💞️ I am currently the education lead at AI center Lipik
+- 🌱 I’m currently studying AI agents in depth
+- 💞️ I am currently the founder of MindX
 - 📫 How to reach me? Simply email me at lukamindjek@gmail.com
 
 <!---
